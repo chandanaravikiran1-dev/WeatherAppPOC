@@ -1,0 +1,27 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "City, e.g. Austin, TX": {},
+    "Couldn't Load Weather": {},
+    "Current Location": {},
+    "Current temperature %@": {},
+    "Enter a US city to see its current weather.": {},
+    "Feels Like": {},
+    "Humidity": {},
+    "Loading weather...": {},
+    "Location Services are turned off. Turn them on in Settings > Privacy & Security, or search for a city.": {},
+    "Location access is turned off for this app. Turn it on in Settings, or search for a city.": {},
+    "Open Settings": {},
+    "Search": {},
+    "Search for a City": {},
+    "Something went wrong while loading the weather. Please try again.": {},
+    "US city": {},
+    "Use My Location": {},
+    "We couldn't determine your location right now. Try again, or search for a city.": {},
+    "We couldn't find that city. Check the spelling, or try adding the state, like \"Springfield, IL\".": {},
+    "Weather": {},
+    "Wind": {},
+    "You appear to be offline. Check your connection and try again.": {}
+  },
+  "version": "1.0"
+}
