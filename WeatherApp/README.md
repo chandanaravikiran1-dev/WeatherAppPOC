@@ -60,12 +60,3 @@ Includes unit tests for:
 UI tests cover basic launch, search and error scenarios.
 
 Run tests with **⌘U**.
-
-## Future Improvements
-
-- Show multiple results for ambiguous cities
-- Move the API key to a secure configuration
-- Add weather forecast
-- Add pull-to-refresh
-
-The implementation is intentionally kept simple and focused on the assignment requirements.
